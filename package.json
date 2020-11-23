@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-regex-index-of",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript's String.indexOf() that allows for regular expressions.",
   "homepage": "https://github.com/afeiship/next-regex-index-of",
   "author": {
@@ -44,6 +44,7 @@
     "regexp",
     "index-of",
     "index",
-    "search"
+    "search",
+    "find"
   ]
 }
