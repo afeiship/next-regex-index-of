@@ -16,7 +16,7 @@ npm install -S @jswork/next-regex-index-of
 import '@jswork/next-regex-index-of';
 
 const str = `What's this? 这是什么？`;
-const res = nx.regexIndexOf(str, /[\u4e00-\u9fa5]/);    // -1
+const res = nx.regexIndexOf(str, /[\u4e00-\u9fa5]/);    // 13
 ```
 
 ## license
