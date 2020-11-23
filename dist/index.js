@@ -3,7 +3,7 @@
  * description: JavaScript's String.indexOf() that allows for regular expressions.
  * homepage: https://github.com/afeiship/next-regex-index-of
  * version: 1.0.1
- * date: 2020-11-23 10:23:24
+ * date: 2020-11-23 10:47:05
  * license: MIT
  */
 
