@@ -2,8 +2,8 @@
  * name: @jswork/next-regex-index-of
  * description: JavaScript's String.indexOf() that allows for regular expressions.
  * homepage: https://github.com/afeiship/next-regex-index-of
- * version: 1.0.1
- * date: 2020-11-23 10:47:05
+ * version: 1.0.2
+ * date: 2020-11-23 10:47:41
  * license: MIT
  */
 
